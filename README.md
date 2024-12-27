@@ -29,10 +29,10 @@
 
 ## Инструкция по установке и запуску игры
 
-1. Перейти по ссылке https://akhsazakeya.github.io/tic-tac-toe-web/
+1. Перейти по ссылке https://akhsazakeya.github.io/tic_tac_toe_web/
 2. Приступить к игре
 
 ## Ссылки
 
-- [GitHub репозиторий](https://github.com/akhsazakeya/tic-tac-toe-web)
-- [GitHub Pages](https://akhsazakeya.github.io/tic-tac-toe-web/)
+- [GitHub репозиторий](https://github.com/akhsazakeya/tic_tac_toe_web)
+- [GitHub Pages](https://akhsazakeya.github.io/tic_tac_toe_web/)
